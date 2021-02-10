@@ -1,8 +1,5 @@
 {
   "name": "APIs & Microservices Certification",
   "version": "0.1.0",
-  "author": {
-    "name": "PG Gonni",
-    "experience": "Noob"
-  }
+  "author": "PG Gonni",
 }
